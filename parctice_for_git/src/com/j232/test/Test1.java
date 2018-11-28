@@ -11,7 +11,7 @@ public class Test1 {
 		 * 换行输出测试
 		 * */
 		System.out.println("1\t2\t3");
-		
+		System.out.println("jj");
 		System.out.print("456\n");
 		
 		
