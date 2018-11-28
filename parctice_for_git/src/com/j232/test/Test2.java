@@ -6,7 +6,7 @@ public class Test2 {
 		// 123 * 10^10
 		System.out.println(1.23e12);
 		System.out.println(1.23E12);
-		
+		//
 		// 0 开头的数字代表八进制数
 		System.out.println(0123);
 		
