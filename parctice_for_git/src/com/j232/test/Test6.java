@@ -10,7 +10,7 @@ public class Test6 {
 		System.out.println(str);*/
 		String str = "abcdefghijklmnopqrstuvwxyz";
 		
-		// public char charAt(int index)
+//		 public char charAt(int index);
 		// public 公共的
 		// char 代表返回值：它一定会返回给我们一个char类型的值
 		// charAt 方法的名字
