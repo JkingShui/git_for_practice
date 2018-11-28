@@ -6,7 +6,7 @@ public class Test4 {
 		// -128~127
 		byte b = 127;
 		System.out.println(b);
-		
+		//
 		short s = 150;
 		System.out.println(s);
 		
